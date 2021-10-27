@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kind</key>
+	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
+	<key>Platforms</key>
+	<array>
+		<string>com.apple.platform.iphoneos</string>
+		<string>com.apple.platform.macosx</string>
+	</array>
+	<key>SortOrder</key>
+	<integer>1</integer>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Identifier</key>
+			<string>productName</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Module Name:</string>
+			<key>Description</key>
+			<string>The name of the Module</string>
+			<key>Type</key>
+			<string>text</string>
+			<key>Default</key>
+			<string>Module Name</string>
+			<key>RequiredOptions</key>
+			<dict>
+				<key>classType</key>
+				<array>
+					<string>MVVM</string>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>Identifier</key>
+			<string>classType</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Class Type:</string>
+			<key>Description</key>
+			<string>The type of classes to create</string>
+			<key>Type</key>
+			<string>popup</string>
+			<key>Default</key>
+			<string>MVVM</string>
+			<key>Values</key>
+			<array>
+				<string>MVVM</string>
+				<string>RxService</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
