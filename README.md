@@ -22,3 +22,10 @@ Once you add this template in your Xcode from the pannel the final project will 
 
 [![1-I-a0qs-J550fy-No-ZHc6r0vw.png](https://i.postimg.cc/9FY9WPXg/1-I-a0qs-J550fy-No-ZHc6r0vw.png)](https://postimg.cc/Yhj0RWWQ)
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+Xcode Template is [MIT-licensed](/LICENSE).
