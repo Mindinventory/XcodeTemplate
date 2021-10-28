@@ -1,6 +1,8 @@
 # Xcode Template
 
-Xcode Template can be two types either file template or the Project Templat. Let's see how the Project Template will be configured and work. Fine more detail [MEDIUM][![Project-Template.png](https://i.postimg.cc/TwBw91dD/Project-Template.png)](https://postimg.cc/47bs4Jhf)
+Xcode Template can be two types either file template or the Project Templat. Let's see how the Project Template will be configured and work. Fine more detail [MEDIUM]
+
+[![Project-Template.png](https://i.postimg.cc/TwBw91dD/Project-Template.png)](https://postimg.cc/47bs4Jhf)
 
 # Project Template
 
