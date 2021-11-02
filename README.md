@@ -9,7 +9,7 @@ Project template is nothing but the group of resuable files which will be create
 # Set Up to Install the Project Template
 
 Go to the path ~/Library/Developer/Xcode/ where you can create you own project template folder with the extension **.xctemplate**
-Add require Image files which will be useful while showing project template in Xcode pannel and modifiled Info.plist file. You will find more on this over [MEDIUM](https://medium.com/mindful-engineering/notification-customization-446a7ffde8c2)
+Add require Image files which will be useful while showing project template in Xcode pannel and modifiled Info.plist file. You will find more on this over [MEDIUM](https://medium.com/mindful-engineering/create-custom-xcode-templates-908fdd14fbd8)
 
 Once you add the folder with images and info.plist file it will look like 
 
