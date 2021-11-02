@@ -1,6 +1,6 @@
 # Xcode Template
 
-Xcode Template can be two types either file template or the Project Templat. Let's see how the Project Template will be configured and work. Find and read more in detail on [MEDIUM](https://medium.com/mindful-engineering/notification-customization-446a7ffde8c2)
+Xcode Template can be two types either file template or the Project Templat. Let's see how the Project Template will be configured and work. Find and read more in detail on [MEDIUM](https://medium.com/mindful-engineering/create-custom-xcode-templates-908fdd14fbd8)
 
 # Project Template
 
