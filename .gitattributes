@@ -1,2 +1,4 @@
 *.swift linguist-detectable=true
+*.rb linguist-language=Swift
+
 
